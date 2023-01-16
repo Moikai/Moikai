@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moikai
+- 👋 Hi, I’m Guido @Moikai Fossati
 - 👀 I’m interested in study much is posible
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on ...
