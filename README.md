@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Guido @Moikai Fossati
 - 👀 I’m interested in study much is posible
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email for work is guidofossati.n@gmail.com
 
 <!---
