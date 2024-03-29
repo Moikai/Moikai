@@ -6,8 +6,32 @@
  <br>
 
  <h2> Languajes and Tools</h2>
- <span>![Css](https://github.com/Moikai/Moikai/assets/80427898/9c0a68d7-b6df-4726-9865-bcfeb46e8485)</span>
-
+ 
+ - HTML 5
+ - CSS
+ - JavaScripts
+ - Node.js
+ - Express
+ - MySQL
+ - SQL
+ - Git
+ - <%> EJS <%>
+ - Figma
+ - Photoshop
+ <br>
+ <br>
+ <h2> Another Stuff</h2>
+ - Visual Studio Code
+ - System Designe 
+ - PostCSS 
+ - Story Book
+ - CD/CI Git Actions
+<br>
+<br>
+<h2>Objets</h2>
+- NextJs
+- React
+- Tailwind
 
 <!---
 Moikai/Moikai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
